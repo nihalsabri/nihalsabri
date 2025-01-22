@@ -5,8 +5,9 @@
 
 ## About Me
 I’m a web developer and UI/UX designer who loves creating beautiful and functional digital experiences. I enjoy the entire process of designing and developing, from sketching wireframes to writing clean code.
-<!-- I’m a web developer who loves building things that live on the internet. I’m passionate about creating intuitive and visually appealing websites that make people’s lives easier -->
 I’m always eager to learn and grow, and I thrive in collaborative environments where I can contribute to meaningful projects.Let’s team up and create something extraordinary! 🎨✨
+<!-- I’m a web developer who loves building things that live on the internet. I’m passionate about creating intuitive and visually appealing websites that make people’s lives easier -->
+
 
 ## Skills and Experience
 *  ⚛ React

@@ -6,7 +6,10 @@ I’m a web developer who loves building things that live on the internet. I’m
 ## Skills and Experience
 *  ⚛ React
 * 💻 HTML, CSS, JS
-* ⚡ UI UX design 
+* ⚡ UI UX design
+
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=janedoe&show_icons=true&theme=radical)
 <!--
 **nihalsabri/nihalsabri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

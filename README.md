@@ -14,7 +14,7 @@ I’m always eager to learn and grow, and I thrive in collaborative environments
 * 💻 HTML, CSS, JS
 * ⚡ UI UX design
   
-## Projects
+<!--## Projects
 Here are some of my projects:
 
 

@@ -1,4 +1,8 @@
 # Nihal Sabri 
+
+- 🌱 I’m currently learning **React** and **Node.js**.
+- 💻 I’m working on improving my skills in **front-end development**.
+
 ## About Me
 I’m a web developer who loves building things that live on the internet. I’m passionate about creating intuitive and visually appealing websites that make people’s lives easier.I’m always eager to learn and grow, and I thrive in collaborative environments where I can contribute to meaningful projects.Let’s team up and create something extraordinary! 🎨✨
 

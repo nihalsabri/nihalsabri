@@ -1,6 +1,6 @@
 # Nihal Sabri 
 
-- 🌱 I’m currently learning **React** and **Node.js**.
+- 🌱 I’m currently learning **React** . <!-- and **Node.js**. -->
 - 💻 I’m working on improving my skills in **front-end development**.
 
 ## About Me

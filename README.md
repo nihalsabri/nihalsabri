@@ -1,5 +1,13 @@
-## Hi there 👋
+# Nihal Sabri 
 
+
+
+
+
+## Skills and Experience
+*  ⚛ React
+* 💻 HTML, CSS, JS
+* ⚡ UI UX design 
 <!--
 **nihalsabri/nihalsabri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

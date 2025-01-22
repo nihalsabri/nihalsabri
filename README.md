@@ -18,8 +18,9 @@ I’m always eager to learn and grow, and I thrive in collaborative environments
 Here are some of my projects:
 
 
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=janedoe&show_icons=true&theme=radical)
+<!-- ## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=janedoe&show_icons=true&theme=radical) -->
+
 <!--
 **nihalsabri/nihalsabri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

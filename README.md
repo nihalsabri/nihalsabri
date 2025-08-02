@@ -1,7 +1,8 @@
 # Nihal Sabri 
 
-- 🌱 I’m currently learning **React** . <!-- and **Node.js**. -->
-- 💻 I’m working on improving my skills in **front-end development**.
+- 🌱 ITIan from july 2025 until november , Track Frontend and cross platform mobile developer 
+
+- 💻  **front-end development**.
 
 ## About Me
 I’m a web developer and UI/UX designer who loves creating beautiful and functional digital experiences. I enjoy the entire process of designing and developing, from sketching wireframes to writing clean code.

@@ -1,38 +1,39 @@
-# Nihal Sabri 
+#  Hi, I'm Nihal Sabri
 
-- 🌱 ITIan from july 2025 until november , Track Frontend and cross platform mobile developer 
+ **Frontend Developer** |**ITI Trainee** | Graduate in **Navigation Sciences & Space Technology**  
+ Building intuitive interfaces for space data, satellite telemetry, and mission control systems  
+ Open to opportunities in the **space industry** — let’s make space more accessible through great UX!
 
-- 💻  **front-end development**.
+---
 
-## About Me
-I’m a web developer and UI/UX designer who loves creating beautiful and functional digital experiences. I enjoy the entire process of designing and developing, from sketching wireframes to writing clean code.
-I’m always eager to learn and grow, and I thrive in collaborative environments where I can contribute to meaningful projects.Let’s team up and create something extraordinary! 🎨✨
-<!-- I’m a web developer who loves building things that live on the internet. I’m passionate about creating intuitive and visually appealing websites that make people’s lives easier -->
+## 🌱 About Me
+
+I'm a frontend developer who blends **space domain knowledge** with **modern UI/UX principles**.  
+I create clean, organized, and real-time dashboards that transform complex orbital and space weather data into **clear, actionable insights**.
+
+My projects include:
+- 🛰️ **Live ISS Tracker** – Real-time satellite position & telemetry
+- ☀️ **Solar Pulse** – Space weather monitoring with NOAA/NASA data
+- 📡 **Mission Control Simulator** – Satellite health & communication UI
+
+I believe the future of space exploration depends not just on rockets — but on **the software that makes their data understandable**.
+
+---
+
+##  Tech Stack
+
+- **Frontend**: React, Next.js, TypeScript, Tailwind CSS
+- **Visualization**: Recharts, D3.js, Three.js, React Leaflet
+- **Space APIs**: NASA, NOAA SWPC, N2YO, WheretheISS.at
+- **Tools**: Git, GitHub Actions, Vercel
+
+---
+
+##  Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nihal-sabri/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/nihalsabri)
+
+>  Actively seeking a frontend role in the **space sector** — where code meets cosmos.
 
 
-## Skills and Experience
-*  ⚛ React
-* 💻 HTML, CSS, JS
-* ⚡ UI UX design
-  
-<!--## Projects
-Here are some of my projects:
-
-
-<!-- ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=janedoe&show_icons=true&theme=radical) -->
-
-<!--
-**nihalsabri/nihalsabri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
